@@ -16,6 +16,8 @@ Try to run it.
 python python/simulation.py
 ```
 
+> demo video link: https://drive.google.com/file/d/1zTRtwiMIZfQ8CqEMq8yX_qpjfumepM5O/view?usp=share_link
+
 ### C++
 
 Solution (Using DFS) is in cpp folder. To run it, you need to have installed cmake.
@@ -30,7 +32,7 @@ make
 
 ### ROS2
 
-Using ROS2 Foxy, you can run the simulation with the following commands, build with colcon.
+Using ROS2 Foxy to simulate `Introduction` and `ROS2 Navigation2`, build with colcon.
 
 ### Academy
 
